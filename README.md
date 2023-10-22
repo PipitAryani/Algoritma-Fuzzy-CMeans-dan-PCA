@@ -1,0 +1,1 @@
+# Algoritma-Fuzzy-CMeans-dan-PCA
